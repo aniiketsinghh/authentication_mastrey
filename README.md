@@ -3,3 +3,4 @@
 <h3>set middleware for  security</h3>
 <h3>Varification email signup</h3>
 <h3>forget password features</h3>
+<h3>Good UI of pages</h3>
